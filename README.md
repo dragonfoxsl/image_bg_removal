@@ -13,11 +13,11 @@ Remove background form given set of images
         pipenv install
     ```
 
-    ![Environment Initialization](http://url/to/img.png)
+    ![Environment Initialization](https://github.com/dragonfoxsl/image_bg_removal/blob/main/readme/install_env.png)
 
 * Run the script
     ```powershell
         pipenv run python .\remove_bg.py
     ```
 
-    ![Script Execution](http://url/to/img.png)
+    ![Script Execution](https://github.com/dragonfoxsl/image_bg_removal/blob/main/readme/script_run.png)
