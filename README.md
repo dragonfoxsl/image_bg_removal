@@ -8,7 +8,7 @@ Remove background form given set of images
         pip install pipenv
     ```
 
-* Initialize the environment (This will install the python 3.8 with the required dependencies from the Pipefile.lock)
+* Initialize the environment from the repository(This will install the python 3.8 with the required dependencies from the Pipefile.lock)
     ```powershell
         pipenv install
     ```
